@@ -4,7 +4,7 @@
 This project applies data analysis and machine learning to optimize Direct Mail (DM) donation targeting for [UNICEF Australia](chatgpt://generic-entity?number=0).  
 I built an end-to-end analytics pipeline from data cleaning and EDA to modeling, evaluation, and business strategy translation.
 
-本项目以 UNICEF 直邮募捐优化为背景，完整展示了我从数据清洗、探索性分析、建模评估到业务策略转化的数据分析全流程能力。
+本项目以 UNICEF 直邮募捐优化为背景，展示了我从数据清洗、探索性分析、建模评估到业务策略转化的一次实践。。
 
 ---
 
